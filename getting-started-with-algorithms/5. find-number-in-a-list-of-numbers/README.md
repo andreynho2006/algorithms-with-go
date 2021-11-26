@@ -1,4 +1,4 @@
-## Determine if a number is in a list [code]
+## Determine if a number is in a list
 
 Given a list of numbers, determine if a specific number is in that list.
 
