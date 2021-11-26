@@ -19,3 +19,5 @@ The hard part is defining rules that are not ambiguous, when we are so used to i
 Its like the office when Michael turns into a lake: https://www.youtube.com/watch?v=DOW_kPzY_JY 
 
 If you tell a computer to turn right into a lake, it will.
+
+Source : https://github.com/joncalhoun/algorithmswithgo.com/tree/master/module01
