@@ -37,7 +37,7 @@ And one final warning - these tests are NOT exhaustive. They may miss corner cas
 
 As the course progresses we will probably start to use benchmarks too. I'm not going to teach those, but there are tons of great resources including the std lib docs, Dave Cheney's blog post (<https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go>), and I even touch on them briefly in my testing course.
 
-Lastly, the solutions directory will have code solutions (along with a copy of the tests) in case you need them. I'll never check solutions into the base directory so you have a good starting point with tests.
+Lastly, the `solutions` directory will have code solutions (along with a copy of the tests) in case you need them. I'll never check solutions into the base directory so you have a good starting point with tests.
 
 
 Source : https://github.com/joncalhoun/algorithmswithgo.com/tree/master/module01
