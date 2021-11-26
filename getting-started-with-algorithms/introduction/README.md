@@ -25,3 +25,5 @@ In order to learn, we typically follow the following format:
 Sometimes we will look at multiple practice problems. Sometimes we will look at problems that look nothing like the algorithm we learned so you can see how it isn't always obvious what algorithms can be applied to solve a problem.
 
 But in this first module we will have a few videos where I cover some basic background information that I think might be useful before diving in.
+
+Source : https://github.com/joncalhoun/algorithmswithgo.com/tree/master/module01
